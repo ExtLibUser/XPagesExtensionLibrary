@@ -33,8 +33,6 @@ import java.util.List;
 import java.util.Locale;
 import java.util.TimeZone;
 
-import sun.security.action.GetBooleanAction;
-
 import com.ibm.commons.util.DateTime;
 import com.ibm.commons.util.QuickSort;
 import com.ibm.commons.util.StringUtil;
