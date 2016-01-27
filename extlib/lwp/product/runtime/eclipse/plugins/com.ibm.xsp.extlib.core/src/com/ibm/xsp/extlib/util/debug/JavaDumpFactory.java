@@ -38,8 +38,6 @@ import com.ibm.commons.util.QuickSort;
 import com.ibm.commons.util.StringUtil;
 import com.ibm.xsp.extlib.log.ExtlibCoreLogger;
 
-import sun.security.action.GetBooleanAction;
-
 /**
  * Default Java Factory.
  */
