@@ -24,11 +24,9 @@ import lotus.domino.Session;
 
 import com.ibm.commons.log.Log;
 import com.ibm.commons.log.LogMgr;
-import com.ibm.domino.calendar.store.Action;
 import com.ibm.domino.das.service.RestService;
 import com.ibm.domino.osgi.core.context.ContextInfo;
 import com.ibm.domino.services.calendar.resources.CalendarCollectionResource;
-import com.ibm.domino.services.calendar.resources.EventActionResource;
 import com.ibm.domino.services.calendar.resources.EventCollectionResource;
 import com.ibm.domino.services.calendar.resources.EventNoticeCollectionResource;
 import com.ibm.domino.services.calendar.resources.EventResource;
