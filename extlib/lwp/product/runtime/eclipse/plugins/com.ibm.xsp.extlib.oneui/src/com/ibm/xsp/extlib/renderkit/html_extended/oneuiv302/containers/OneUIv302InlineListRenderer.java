@@ -21,7 +21,6 @@ import javax.faces.component.UIComponent;
 import javax.faces.context.FacesContext;
 import javax.faces.context.ResponseWriter;
 
-import com.ibm.commons.util.StringUtil;
 import com.ibm.xsp.extlib.component.containers.UIList;
 import com.ibm.xsp.extlib.renderkit.html_extended.oneui.containers.OneUIInlineListRenderer;
 
